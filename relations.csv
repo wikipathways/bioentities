@@ -2255,3 +2255,9 @@ HGNC,TRA,partof,BE,TCR
 HGNC,TRB,partof,BE,TCR
 HGNC,TRD,partof,BE,TCR
 HGNC,TRG,partof,BE,TCR
+HGNC,CHUK,partof,BE,IKK
+HGNC,IKBKB,partof,BE,IKK
+HGNC,IKBKG,partof,BE,IKK
+HGNC,SELE,partof,BE,Selectin
+HGNC,SELL,partof,BE,Selectin
+HGNC,SELP,partof,BE,Selectin
