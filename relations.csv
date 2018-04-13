@@ -235,11 +235,6 @@ HGNC,HSP90AA1,isa,BE,HSP90AA
 HGNC,HSP90AB1,isa,BE,HSP90A
 HGNC,HSP90B1,isa,BE,HSP90
 HGNC,TRAP1,isa,BE,HSP90
-BE,Histone_H1,isa,BE,Histone
-BE,Histone_H2A,isa,BE,Histone
-BE,Histone_H2B,isa,BE,Histone
-BE,Histone_H3,isa,BE,Histone
-BE,Histone_H4,isa,BE,Histone
 HGNC,H1F0,isa,BE,Histone_H1
 HGNC,H1FOO,isa,BE,Histone_H1
 HGNC,H1FX,isa,BE,Histone_H1
